@@ -1,10 +1,32 @@
-# Getting Started with Create React App
+# Getting Started with Car Gallery
 
+# LIVE HERE : (https://car-gallery.web.app/)
+
+Car-gallery is a 3D car showroom scene with three js and react with a configuration of controls from Leva, orbit controls and stats.
+Technical stack : React JS / TypeScript / Three JS / fiber / drei / Leva / JEST - RTL / CRA / CSS / ESLint.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+All screen size are handled, working in all browsers.
+
+For the deployement I built the project with the `yarn build` commande and I deployed with Firebase, here the documentation for hosting and deploying your app in Firebase : https://firebase.google.com/docs/hosting/quickstart.
+
+![gloria_theos](https://github.com/user-attachments/assets/3bdf88b9-82e2-4337-bc1c-aa97204fdce2)
+
+## How to run
+
+### Install Node.js plateform
+
+( Choose the LTS version recommanded for most users )
 
 In the project directory, you can run:
+
+### `npm install --global yarn`
+
+to install the yarn package, it's an alternative of npm.
+
+### `yarn install`
+
+To install all dependencies.
 
 ### `yarn start`
 
@@ -13,6 +35,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### You can start using the application with all its features
+
+![gloria_theos](https://github.com/user-attachments/assets/0d4f5c6d-8861-4188-9fb2-ab7b72174703)
 
 ### `yarn test`
 
@@ -28,16 +54,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 

@@ -1,0 +1,517 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders the App component and its elements 1`] = `
+<div>
+  <primitive />
+  <div
+    class="leva-c-kWgxhW leva-c-kWgxhW-bCBHqk-fill-false leva-c-kWgxhW-eXrJvq-flat-false leva-c-kWgxhW-iqtKuk-oneLineLabels-true leva-c-kWgxhW-czBHep-hideTitleBar-false"
+    style="display: block; transform: translate3d(undefinedpx, undefinedpx, 0);"
+  >
+    <div
+      class="leva-c-hwBXYF leva-c-hwBXYF-kbKHjH-mode-drag"
+    >
+      <i
+        class="leva-c-ctBOWy leva-c-ctBOWy-dpRfJK-active-true"
+      >
+        <svg
+          class="leva-c-cHvNmv"
+          height="8"
+          style="transform: rotate(-90deg);"
+          viewBox="0 0 9 5"
+          width="12"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M3.8 4.4c.4.3 1 .3 1.4 0L8 1.7A1 1 0 007.4 0H1.6a1 1 0 00-.7 1.7l3 2.7z"
+          />
+        </svg>
+      </i>
+      <div
+        class="leva-c-iLtnIm leva-c-iLtnIm-bOgTWZ-drag-true"
+      >
+        <svg
+          height="10"
+          viewBox="0 0 28 14"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="2"
+            cy="2"
+            r="2"
+          />
+          <circle
+            cx="14"
+            cy="2"
+            r="2"
+          />
+          <circle
+            cx="26"
+            cy="2"
+            r="2"
+          />
+          <circle
+            cx="2"
+            cy="12"
+            r="2"
+          />
+          <circle
+            cx="14"
+            cy="12"
+            r="2"
+          />
+          <circle
+            cx="26"
+            cy="12"
+            r="2"
+          />
+        </svg>
+      </div>
+      <i
+        class="leva-c-ctBOWy"
+      >
+        <svg
+          height="20"
+          viewBox="0 0 20 20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M9 9a2 2 0 114 0 2 2 0 01-4 0z"
+          />
+          <path
+            clip-rule="evenodd"
+            d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a4 4 0 00-3.446 6.032l-2.261 2.26a1 1 0 101.414 1.415l2.261-2.261A4 4 0 1011 5z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </i>
+    </div>
+    <div
+      class="leva-c-fxiFTg leva-c-fxiFTg-dbaoCM-toggled-false"
+    >
+      <input
+        class="leva-c-iYYzmZ"
+        placeholder="[Open filter with CMD+SHIFT+L]"
+        value=""
+      />
+      <i
+        class="leva-c-ctBOWy"
+        style="visibility: hidden;"
+      >
+        <svg
+          fill="currentColor"
+          height="14"
+          viewBox="0 0 20 20"
+          width="14"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </i>
+    </div>
+    <div
+      class="leva-c-hBtFDW leva-c-hBtFDW-hTGpNn-cv leva-c-hBtFDW-gOvGdg-cv"
+      style="height: 0px; overflow: hidden;"
+    >
+      <div
+        class="leva-c-dmsJDs leva-c-dmsJDs-hhbEws-toggled-false leva-c-dmsJDs-hXSjjU-isRoot-true"
+      >
+        <div
+          class="leva-c-PJLV"
+          style="--leva-colors-folderWidgetColor: #8c92a4; --leva-colors-folderTextColor: #fefefe;"
+        >
+          <div
+            class="leva-c-dosbYs"
+          >
+            <svg
+              class="leva-c-cHvNmv"
+              height="5"
+              style="transform: rotate(0deg);"
+              viewBox="0 0 9 5"
+              width="9"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M3.8 4.4c.4.3 1 .3 1.4 0L8 1.7A1 1 0 007.4 0H1.6a1 1 0 00-.7 1.7l3 2.7z"
+              />
+            </svg>
+            <div>
+              Controles
+            </div>
+          </div>
+          <div
+            class="leva-c-hBtFDW leva-c-hBtFDW-lbFLlY-isRoot-false"
+          >
+            <div
+              class="leva-c-dmsJDs leva-c-dmsJDs-lpvxwm-toggled-true"
+            >
+              <div
+                class="leva-c-bDGmTT"
+              >
+                <div
+                  class="leva-c-grzFYX leva-c-jzsQCy"
+                >
+                  <div
+                    class="leva-c-iSkYoW"
+                  >
+                    <label
+                      class="leva-c-dKMqBT"
+                      for="Controles.environment"
+                      title="Environnement"
+                    >
+                      Environnement
+                    </label>
+                    <div
+                      title="Click to copy Environnement value"
+                    >
+                      <svg
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"
+                        />
+                        <path
+                          d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="leva-c-dkRbIj"
+                  >
+                    <select
+                      class="leva-c-bHmsMj"
+                      id="Controles.environment"
+                    >
+                      <option
+                        value="0"
+                      >
+                        Allemagne nuit
+                      </option>
+                      <option
+                        value="1"
+                      >
+                        Shanghai soirée
+                      </option>
+                      <option
+                        value="2"
+                      >
+                        Allemagne soir
+                      </option>
+                      <option
+                        value="3"
+                      >
+                        Médiéval jour
+                      </option>
+                      <option
+                        value="4"
+                      >
+                        Pur ciel
+                      </option>
+                      <option
+                        value="5"
+                      >
+                        Grèce jour
+                      </option>
+                      <option
+                        value="6"
+                      >
+                        Parc jour
+                      </option>
+                      <option
+                        value="7"
+                      >
+                        Port jour
+                      </option>
+                      <option
+                        value="8"
+                      >
+                        Ciel en feu
+                      </option>
+                      <option
+                        value="9"
+                      >
+                        Venise coucher de soleil
+                      </option>
+                    </select>
+                    <div
+                      class="leva-c-fOquTv"
+                    >
+                      Shanghai soirée
+                    </div>
+                    <svg
+                      class="leva-c-cHvNmv"
+                      height="5"
+                      style="transform: rotate(0deg);"
+                      viewBox="0 0 9 5"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M3.8 4.4c.4.3 1 .3 1.4 0L8 1.7A1 1 0 007.4 0H1.6a1 1 0 00-.7 1.7l3 2.7z"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leva-c-bDGmTT"
+              >
+                <div
+                  class="leva-c-grzFYX leva-c-jzsQCy"
+                >
+                  <div
+                    class="leva-c-iSkYoW"
+                  >
+                    <label
+                      class="leva-c-dKMqBT"
+                      for="Controles.showScene"
+                      title="afficher la scène"
+                    >
+                      afficher la scène
+                    </label>
+                    <div
+                      title="Click to copy afficher la scène value"
+                    >
+                      <svg
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"
+                        />
+                        <path
+                          d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="leva-c-TldsY"
+                  >
+                    <input
+                      checked=""
+                      id="Controles.showScene"
+                      type="checkbox"
+                    />
+                    <label
+                      for="Controles.showScene"
+                    >
+                      <svg
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M5 13l4 4L19 7"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="2"
+                        />
+                      </svg>
+                    </label>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leva-c-bDGmTT"
+              >
+                <div
+                  class="leva-c-grzFYX leva-c-jzsQCy"
+                >
+                  <div
+                    class="leva-c-iSkYoW"
+                  >
+                    <label
+                      class="leva-c-dKMqBT"
+                      for="Controles.rotationY"
+                      title="Rotation de la scène"
+                    >
+                      Rotation de la scène
+                    </label>
+                    <div
+                      title="Click to copy Rotation de la scène value"
+                    >
+                      <svg
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"
+                        />
+                        <path
+                          d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="leva-c-PJLV leva-c-PJLV-gsjcND-hasRange-true"
+                  >
+                    <div
+                      class="leva-c-hwSNBG"
+                    >
+                      <div
+                        class="leva-c-bbMqub"
+                      >
+                        <div
+                          class="leva-c-knrmXZ"
+                          style="left: 0px; right: 50%;"
+                        />
+                      </div>
+                      <div
+                        class="leva-c-gUBGce"
+                      />
+                    </div>
+                    <div
+                      class="leva-c-kXfPOu"
+                    >
+                      <input
+                        autocomplete="off"
+                        class="leva-c-ghmOOI leva-c-ghmOOI-gsXdEb-levaType-number"
+                        id="Controles.rotationY"
+                        spellcheck="false"
+                        type="text"
+                        value="0.00"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leva-c-bDGmTT"
+              >
+                <div
+                  class="leva-c-grzFYX leva-c-jzsQCy"
+                >
+                  <div
+                    class="leva-c-iSkYoW"
+                  >
+                    <label
+                      class="leva-c-dKMqBT"
+                      for="Controles.color"
+                      title="Couleur du véhicule"
+                    >
+                      Couleur du véhicule
+                    </label>
+                    <div
+                      title="Click to copy Couleur du véhicule value"
+                    >
+                      <svg
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"
+                        />
+                        <path
+                          d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="leva-c-khXfrH"
+                  >
+                    <div
+                      class="leva-c-VuHFz"
+                      style="color: rgb(255, 255, 255);"
+                    />
+                    <div
+                      class="leva-c-kXfPOu"
+                    >
+                      <input
+                        autocomplete="off"
+                        class="leva-c-ghmOOI"
+                        id="Controles.color"
+                        spellcheck="false"
+                        type="text"
+                        value="#ffffff"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="leva-c-bDGmTT"
+              >
+                <div
+                  class="leva-c-grzFYX leva-c-jzsQCy"
+                >
+                  <div
+                    class="leva-c-iSkYoW"
+                  >
+                    <label
+                      class="leva-c-dKMqBT"
+                      for="Controles.glass"
+                      title="Transparence des vitres"
+                    >
+                      Transparence des vitres
+                    </label>
+                    <div
+                      title="Click to copy Transparence des vitres value"
+                    >
+                      <svg
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"
+                        />
+                        <path
+                          d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                  <div
+                    class="leva-c-PJLV leva-c-PJLV-gsjcND-hasRange-true"
+                  >
+                    <div
+                      class="leva-c-hwSNBG"
+                    >
+                      <div
+                        class="leva-c-bbMqub"
+                      >
+                        <div
+                          class="leva-c-knrmXZ"
+                          style="left: 0px; right: 37.77777777777778%;"
+                        />
+                      </div>
+                      <div
+                        class="leva-c-gUBGce"
+                      />
+                    </div>
+                    <div
+                      class="leva-c-kXfPOu"
+                    >
+                      <input
+                        autocomplete="off"
+                        class="leva-c-ghmOOI leva-c-ghmOOI-gsXdEb-levaType-number"
+                        id="Controles.glass"
+                        spellcheck="false"
+                        type="text"
+                        value="0.66"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
