@@ -8,8 +8,8 @@ import {
 } from '@react-three/drei';
 import { Leva, useControls } from 'leva';
 import { Color, Mesh, Object3D, Scene } from 'three';
-import SceneModel from './SceneModel';
-import './App.css';
+import SceneModel from './SceneModel/SceneModel';
+import './App.scss';
 
 const App: FC = () => {
   const [loading, setLoading] = useState(true);

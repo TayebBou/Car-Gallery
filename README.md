@@ -2,11 +2,14 @@
 
 # LIVE HERE : https://car-gallery-threejs.web.app
 
-Car-gallery is a 3D car showroom scene with three js and react with a configuration of controls from Leva, orbit controls and stats.
-Technical stack : React JS / TypeScript / Three JS / fiber / drei / Leva / JEST - RTL / CRA / CSS / ESLint.
+Car-gallery is a 3D car showroom scene made with three js and react using a configuration of controls from Leva, orbit controls, stats and environment from drei with High Dynamic Range (HDR) image files imported from https://polyhaven.com/, lights, shadows, geometries, materials, textures, reflextion (with roughness and reflectivity prop), metalness, transparency and refraction for the glass, clearcoat for the painting of the car and so on ...
+Technical stack : React JS / TypeScript / Three JS / fiber / drei / Leva / JEST - RTL / CRA / SASS / Firebase / ESLint.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-All screen size are handled, working in all browsers.
+All screen size are handled and it's working in all browsers.
+
+I don't recommend opening the live link in mobile or in a very weak laptop because the 3D scene is heavy due to the calculation of the modern graphic features described above.
 
 For the deployement I built the project with the `yarn build` commande and I deployed with Firebase, here the documentation for hosting and deploying your app in Firebase : https://firebase.google.com/docs/hosting/quickstart.
 
@@ -24,7 +27,7 @@ In the project directory, you can run:
 
 to install the yarn package, it's an alternative of npm.
 
-### `yarn install`
+### `yarn install` or `yarn`
 
 To install all dependencies.
 
@@ -51,13 +54,23 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production without SOURCEMAP to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+Note: this is a one-way operation. Once you eject, you can’t go back!
+
+If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
